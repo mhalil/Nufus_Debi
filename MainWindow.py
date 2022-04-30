@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 #-*-coding:utf-8-*-
 
-from curses.textpad import Textbox
 from tkinter import *
-from turtle import width
 
 pencere = Tk()      # Ana Pencere - MainWindow
 pencere.geometry("360x430+500+300")
